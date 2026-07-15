@@ -1,6 +1,6 @@
 # Nemesis Hardware Pinout & Wiring Guide
 
-This document provides the final, corrected pin mappings for the 3-stack PCB architecture, exactly as defined in the official thesis documentation (Tables 1 & 2, and Final Schematics). Use this as the definitive guide when wiring breadboards or soldering the PCBs.
+This document provides the final, corrected pin mappings for the 3-stack PCB architecture, exactly as defined in the official thesis documentation. Use this as the definitive guide when wiring breadboards or soldering the PCBs.
 
 ---
 
