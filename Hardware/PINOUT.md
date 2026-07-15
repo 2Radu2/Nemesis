@@ -41,9 +41,6 @@ This document provides the final, corrected pin mappings for the 3-stack PCB arc
 | **To ESP32-32U (Bluetooth)** | `GPIO 17` | `GPIO 16` |
 | **To ESP8266 (Wi-Fi)** | `GPIO 7` | `GPIO 8` |
 
-> [!NOTE]
-> *Page 40 of the thesis text accidentally references IO32 and IO35 for the Wi-Fi bridge, but Table 1 and the final schematic confirm it is actually **7 and 8**!*
-
 ---
 
 ## 2. ESP32-WROOM-32U (Bluetooth Jammer)
