@@ -1,6 +1,6 @@
 # Project Nemesis: Modular Wireless Auditor
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 **This project is for educational and academic research purposes only.**
 
 Project Nemesis was developed as a university thesis project to audit, stress-test, and evaluate the resilience of modern wireless protocols (IEEE 802.11 and Bluetooth) in strictly controlled and isolated laboratory environments.
@@ -11,7 +11,7 @@ By downloading, viewing, or building this project, you agree that you are solely
 
 ---
 
-## 📖 Overview
+##  Overview
 Project Nemesis is a portable, offensive security embedded system designed to audit and stress-test the resilience of modern wireless networks (Wi-Fi & Bluetooth).
 
 Unlike standard auditing tools that rely on a single microcontroller (which often leads to severe UI lag and firmware bottlenecks during heavy RF injection), this project utilizes a custom **3-Stack Hardware Architecture**:
@@ -21,7 +21,7 @@ Unlike standard auditing tools that rely on a single microcontroller (which ofte
 
 By synchronizing these independent layers, the system can execute "Combo Max"—a simultaneous, multi-vector attack capable of completely saturating the 2.4 GHz spectrum while maintaining a perfectly fluid user interface.
 
-## 🛠️ Hardware Components
+##  Hardware Components
 This project relies on a custom 3-stack PCB architecture to distribute processing power and prevent UI bottlenecks. Below is the full bill of materials (BOM):
 
 ### Layer 1: Master Controller & UI
